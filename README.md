@@ -30,3 +30,9 @@ Und so sieht meine Umsetzung in HTML und CSS aus:
 
 ## 🔧 Projektstruktur
 
+---
+
+## 🔗 Live-Demo
+
+👉 [Hier klicken zur Vorschau](https://deniskrae.github.io/gym_projekt/)
+
