@@ -30,7 +30,7 @@ Und so sieht meine HTML/CSS-Version aus:
 ## 🧰 Verwendete Technologien
 
 - HTML5 (semantisch)
-- CSS3 (Flexbox, Grid, Farben)
+- CSS3 (Flexbox, Hintergrund-Layer, Media Queries-ready, Hover-Effekte, Text- und Box-Styles)
 - Strukturierte Ordner
 - Kein JavaScript
 
